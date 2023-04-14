@@ -2,7 +2,7 @@
 
 My portfolio website created using HTML, CSS, and JavaScript.
 
-Deployed link:
+Deployed link: https://kourtneysmith-portfolio.netlify.app/
 
 To use as a template:  Clone to your local machine and do the following steps to quick start:
 
