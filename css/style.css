@@ -491,3 +491,12 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+.portfolio-item-individual a {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 22em;
+    font-weight: var(--fw-bold);
+    color: inherit;
+}
